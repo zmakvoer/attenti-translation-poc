@@ -1,1 +1,5 @@
-
+{
+  "attenti.user.name":"Nom d'utilisateur",
+  "attenti.user.type":"type d'utilisateur",
+  "attenti.user.id":"identifiant"
+}
