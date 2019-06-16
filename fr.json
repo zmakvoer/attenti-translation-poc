@@ -1,6 +1,9 @@
 {
-  "attenti.user.name":"Nom d'utilisateur",
-  "attenti.user.type":"Type d'utilisateur",
-  "attenti.user.id":"Identifiant",
-  "attenti.test.test":"test2-fr"
+    "attenti.user.name": "Nom d'utilisateur",
+    "attenti.user.type": "Type d'utilisateur",
+    "attenti.user.id": "Identifiant",
+    "attenti.user.lastName": "Utilisateur Nom De Famille",
+    "attenti.testkey": "tester",
+    "attenti.test.test": "test2-fr",
+    "attenti.mykey": ""
 }
