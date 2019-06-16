@@ -1,6 +1,8 @@
 {
-  "attenti.user.name":"User Name",
-  "attenti.user.type":"User Type",
-  "attenti.user.id":"User ID",
-  "attenti.test.test":"test2"
+    "attenti.user.name": "User Name",
+    "attenti.user.type": "User Type",
+    "attenti.user.id": "User ID",
+    "attenti.user.lastName": "User Last Name",
+    "attenti.testkey": "test",
+    "attenti.test.test": "test2"
 }
